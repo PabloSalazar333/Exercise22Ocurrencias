@@ -22,7 +22,7 @@ public class OcurrenciasApp {
 		//
 		for(int i=0; i<ELEMENTS; i++)
 		{
-			miArray[i] = numbers.nextInt(101);
+			miArray[i] = numbers.nextInt(5);
 		}
 		
 		//Process
